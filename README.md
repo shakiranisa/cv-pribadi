@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -46,7 +46,7 @@
 
     <div class="section">
         <h2>Profil</h2>
-        <p>Saya Seorang profesional dengan 1 tahun pengalaman di bidang ilmu komputer. Memiliki kemampuan dalam menggunakan microsoft office, serta berfokus pada meningkatkan efisiensi kerja dan menghasilkan karya berkualitas. Berorientasi pada hasil dan memiliki semangat untuk terus belajar dan berkembang.</div>
+        <p>Saya Seorang profesional dengan 1 tahun pengalaman di bidang ilmu komputer. Memiliki kemampuan dalam menggunakan microsoft office, serta berfokus pada meningkatkan efisiensi kerja dan menghasilkan karya berkualitas. Berorientasi pada hasil dan memiliki semangat untuk terus belajar dan berkembang.
 
     <div class="section">
         <h2>Mahasiswa</h2>
@@ -97,5 +97,4 @@
         <p>Referensi tersedia atas permintaan.</p>
     </div>
 
-</body>
-</html>
+
