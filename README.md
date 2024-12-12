@@ -40,7 +40,7 @@
     <div class="contact-info">
         <p>Email: shakiransa290305@gmail.com</p>
         <p>Telepon: 0896-3029-3340</p>
-        <p>Alamat: Kp.Jatake</p>
+        <p>Alamat: Jl. Aria Santika No.40A, RT.005/RW.011, Margasari, Kec. Karawaci, Kota Tangerang, Banten 15114/p>
         <p>GitHub: github.com/username</p>
     </div>
 
@@ -76,7 +76,7 @@
     <div class="section">
         <h2>Keahlian</h2>
         <ul>
-            <li>Keahlian 1 (misalnya: Pemrograman dalam Python)</li>
+            <li>Keahlian 1 Bisa Menggunakan Microsoft</li>
             <li>Keahlian 2 (misalnya: Manajemen Proyek)</li>
             <li>Keahlian 3 desain animasi</li>
             <li>Keahlian 4 (misalnya: Analisis Data)</li>
@@ -89,7 +89,7 @@
         <h3>Pengenalan Kehidupan Kampus bagi Mahasiswa Baru(PKKMB)</h3>
         <p>Univesitas Yatsi Madani, 2024</p>
         <h3>webinar"AI for digital marketing:Roadmap & content creation"</h3>
-        <p>Asosiasi Digital Indonesia dan Asosiasi Pengguna Artificial Intelligence Indonesia, Tahun Diperoleh</p>
+        <p>Asosiasi Digital Indonesia dan Asosiasi Pengguna Artificial Intelligence Indonesia, 2024</p>
     </div>
 
     <div class="section">
