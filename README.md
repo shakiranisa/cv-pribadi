@@ -86,10 +86,10 @@
 
     <div class="section">
         <h2>Pelatihan dan Sertifikasi</h2>
-        <h3>Nama Sertifikasi</h3>
-        <p>Institusi, Tahun Diperoleh</p>
-        <h3>Nama Pelatihan</h3>
-        <p>Institusi, Tahun Diperoleh</p>
+        <h3>Pengenalan Kehidupan Kampus bagi Mahasiswa Baru(PKKMB)</h3>
+        <p>Univesitas Yatsi Madani, 2024</p>
+        <h3>webinar"AI for digital marketing:Roadmap & content creation"</h3>
+        <p>Asosiasi Digital Indonesia dan Asosiasi Pengguna Artificial Intelligence Indonesia, Tahun Diperoleh</p>
     </div>
 
     <div class="section">
