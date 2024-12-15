@@ -42,7 +42,7 @@
         <p>Telepon: 0896-3029-3340</p>
         <p>Alamat: Jl. Aria Santika No.40A, RT.005/RW.011, Margasari, Kec. Karawaci, Kota Tangerang, Banten 15114/p>
         <p>GitHub: github.com/username</p>
-    </div>
+    
 
     <div class="section">
         <h2>Profil</h2>
