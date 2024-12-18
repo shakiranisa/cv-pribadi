@@ -57,20 +57,7 @@
     </div>
 
     <div class="section">
-        <h2>Pelayan tempat makan</h2>
-        <h3>Fried chicken shakela 1</h3>
-        <p>pelayan,2022-2023</p>
-        <ul>
-            <li>Mengelola kasir yang menerima pembayaran.</li>
-            <li>Memberikan pelayanan agar pelanggan puas.</li>
-        </ul>
         
-        <h3>Nama Perusahaan 2</h3>
-        <p>Jabatan, Tahun Masuk - Tahun Keluar</p>
-        <ul>
-            <li>Melakukan analisis [deskripsi analisis] untuk meningkatkan [aspek yang ditingkatkan].</li>
-            <li>Memberikan presentasi kepada [audiens] mengenai [topik].</li>
-        </ul>
     </div>
 
     <div class="section">
