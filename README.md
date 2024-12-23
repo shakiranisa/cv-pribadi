@@ -57,6 +57,25 @@
     </div>
 
     <div class="section">
+    <h2>Proyek yang Pernah Dibuat</h2>
+    <ul>
+        <li>
+            <strong><a href="https://github.com/username/proyek1">Proyek 1</a></strong>
+            <p>Deskripsi singkat tentang proyek ini. Apa tujuannya dan teknologi yang digunakan.</p>
+        </li>
+        <li>
+            <strong><a href="https://github.com/username/proyek2">Proyek 2</a></strong>
+            <p>Deskripsi singkat tentang proyek ini. Apa tujuannya dan teknologi yang digunakan.</p>
+        </li>
+        <li>
+            <strong><a href="https://github.com/username/proyek3">Proyek 3</a></strong>
+            <p>Deskripsi singkat tentang proyek ini. Apa tujuannya dan teknologi yang digunakan.</p>
+        </li>
+    </ul>
+</div>
+
+
+    <div class="section">
         
     </div>
 
