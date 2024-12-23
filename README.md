@@ -55,19 +55,24 @@
         <h3>SMAN 11 TANGERANG</h3>
         <p>Ilmu Pengetahuan Sosial, 2020 - 2023</p>
     </div>
-
-    <div class="section">
-    <h2>Proyek yang Pernah Dibuat</h2>
+<div class="section">
+    <h2>proyek yang Pernah Dibuat</h2>
     <ul>
         <li>
-            <strong><Tugas Akhir: Makalah Penulisan Karya Ilmiah
-            <p>Penulisan karya ilmiah yang membahas topik tertentu dengan metode penelitian yang sistematis dan terstruktur.
-    
-            <strong><Proyek Game dengan Microsoft PowerPoint
-            <p>Pembuatan game interaktif menggunakan fitur animasi dan hyperlink di Microsoft PowerPoint.
-       
-            <strong><Proyek Short Movie (Film Pendek)
-            <p>Pembuatan film pendek dengan tema tertentu, melibatkan proses pra-produksi, produksi, dan pasca-produksi.
+            <strong><a href="https://github.com/username/makalah-ilmiah">Tugas Akhir: Makalah Penulisan Karya Ilmiah</a></strong>
+            <p>Penulisan karya ilmiah dengan metode penelitian sistematis untuk mengembangkan keterampilan riset dan analisis.</p>
+        </li>
+        <li>
+            <strong><a href="https://github.com/username/game-powerpoint">Proyek Game dengan Microsoft PowerPoint</a></strong>
+            <p>Game interaktif menggunakan fitur animasi dan hyperlink di Microsoft PowerPoint untuk edukasi yang menarik.</p>
+        </li>
+        <li>
+            <strong><a href="https://github.com/username/short-movie">Proyek Short Movie (Film Pendek)</a></strong>
+            <p>Pembuatan film pendek yang melibatkan proses pra-produksi, produksi, dan pasca-produksi dengan storytelling yang kuat.</p>
+        </li>
+    </ul>
+</div>
+
        
 
 
