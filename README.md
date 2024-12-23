@@ -63,11 +63,11 @@
     <div class="section">
         <h2>Keahlian</h2>
         <ul>
-            <li>Keahlian 1 Bisa Menggunakan Microsoft</li>
-            <li>Keahlian 2 (misalnya: Manajemen Proyek)</li>
-            <li>Keahlian 3 desain animasi</li>
-            <li>Keahlian 4 (misalnya: Analisis Data)</li>
-            <li>Keahlian 5 (misalnya: Komunikasi Efektif)</li>
+            <li>Microsoft office</li>
+            <li>c++ dan python</li>
+            <li>Desain animasi</li>
+            <li>Analisis Data</li>
+      
         </ul>
     </div>
 
