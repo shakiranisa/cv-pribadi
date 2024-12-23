@@ -60,8 +60,8 @@
     <h2>Proyek yang Pernah Dibuat</h2>
     <ul>
         <li>
-            <strong><a href="https://github.com/username/proyek1">Proyek 1</a></strong>
-            <p>Deskripsi singkat tentang proyek ini. Apa tujuannya dan teknologi yang digunakan.</p>
+            <strong><a href=Tugas Akhir: Makalah Penulisan Karya Ilmiah
+            <p>Penulisan karya ilmiah yang membahas topik tertentu dengan metode penelitian yang sistematis dan terstruktur.
         </li>
         <li>
             <strong><a href="https://github.com/username/proyek2">Proyek 2</a></strong>
