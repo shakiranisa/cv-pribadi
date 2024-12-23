@@ -40,7 +40,7 @@
     <div class="contact-info">
         <p>Email: shakiransa290305@gmail.com</p>
         <p>Telepon: 0896-3029-3340</p>
-        <p>Alamat: Jl. Aria Santika No.40A, RT.005/RW.011, Margasari, Kec. Karawaci, Kota Tangerang, Banten 15114/p>
+        <p>Alamat: Jl. Aria Santika No.40A, RT.005/RW.011, Margasari, Kec. Karawaci, Kota Tangerang, Banten 15114</p>
         <p>GitHub: github.com/username</p>
     
 
@@ -60,19 +60,15 @@
     <h2>Proyek yang Pernah Dibuat</h2>
     <ul>
         <li>
-            <strong><a href=Tugas Akhir: Makalah Penulisan Karya Ilmiah
+            <strong><Tugas Akhir: Makalah Penulisan Karya Ilmiah
             <p>Penulisan karya ilmiah yang membahas topik tertentu dengan metode penelitian yang sistematis dan terstruktur.
-        </li>
-        <li>
-            <strong><a href="https://github.com/username/proyek2">Proyek 2</a></strong>
-            <p>Deskripsi singkat tentang proyek ini. Apa tujuannya dan teknologi yang digunakan.</p>
-        </li>
-        <li>
-            <strong><a href="https://github.com/username/proyek3">Proyek 3</a></strong>
-            <p>Deskripsi singkat tentang proyek ini. Apa tujuannya dan teknologi yang digunakan.</p>
-        </li>
-    </ul>
-</div>
+    
+            <strong><Proyek Game dengan Microsoft PowerPoint
+            <p>Pembuatan game interaktif menggunakan fitur animasi dan hyperlink di Microsoft PowerPoint.
+       
+            <strong><Proyek Short Movie (Film Pendek)
+            <p>Pembuatan film pendek dengan tema tertentu, melibatkan proses pra-produksi, produksi, dan pasca-produksi.
+       
 
 
     <div class="section">
