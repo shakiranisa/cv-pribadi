@@ -1,3 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Shakira Fazilatun Nisa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9fafc;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            padding: 50px 20px;
+            background-color: #4CAF50;
+            color: white;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            font-size: 1.2em;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Selamat datang di CV Pribadi Shakira!</h1>
+        <p>Halo! Saya <strong>Shakira Fazilatun Nisa</strong>, dan ini adalah halaman CV saya. 
+           Di sini, Anda bisa menemukan informasi tentang latar belakang, keterampilan, dan pengalaman saya.</p>
+    </header>
+</body>
+</html>
 
 <html lang="id">
 <head>
